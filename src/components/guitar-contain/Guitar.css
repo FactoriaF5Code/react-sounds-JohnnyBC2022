@@ -1,0 +1,13 @@
+.fretboard {
+  display: flex;
+  flex-direction: column;
+  background-color: #be975b;
+  width: 70%;
+  height: 20rem;
+  margin: 3rem auto;
+  overflow: hidden;
+  border: solid 10px cadetblue;
+  border-radius: 1rem;
+}
+
+
