@@ -1,0 +1,29 @@
+main {
+  background-color: aliceblue;
+  border-radius: 1rem;
+  margin-top: 1rem;
+  box-shadow: 3px 4px 7px rgba(0, 0, 0, 0.2);
+}
+
+.main__h1 {
+  font-family: "Pacifico", sans-serif;
+  color: cadetblue;
+  text-shadow: 4px 4px 6px rgba(95, 158, 160, 0.774);
+  font-size: 3rem;
+  text-align: center;
+}
+
+.main__h2 {
+  font-family: "Permanent Marker", sans-serif;
+  color: rgba(17, 37, 19, 0.712);
+  letter-spacing: 3px;
+  text-align: center;
+  padding: 1rem;
+}
+.main__p {
+  padding: 1rem;
+}
+
+.negrita {
+  color: cadetblue;
+}
