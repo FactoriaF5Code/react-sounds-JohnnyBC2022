@@ -35,8 +35,8 @@
   border-image: linear-gradient(to left, #bbb, #fff, #bbb) 1 100%;
 }
 
-.note-fret:before {
-  content: "C";
+.key-text {
+  position: relative;
   width: 33px;
   height: 33px;
   border-radius: 50%;
@@ -45,5 +45,7 @@
   background: cadetblue;
   z-index: 2;
   color: #eee;
-  opacity: 0.5;
+  opacity: 1;
+  z-index: 200;
+  pointer-events: none;
 }
