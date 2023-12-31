@@ -18,9 +18,8 @@ export function Main() {
       </p>
       <Guitar />
       <p className="main__p">
-        Practica con nuestra guitarra. Para ello, puedes{" "}
-        <span className="negrita">pulsar con el ratón sobre cada cuerda</span> o
-        puedes apretar en tu teclado sobre las{" "}
+        Practica con nuestra guitarra. Para ello, 
+        puedes apretar en tu teclado sobre las{"  "}
         <span className="negrita">teclas A, S, D, F, G o H.</span>
       </p>
     </main>
